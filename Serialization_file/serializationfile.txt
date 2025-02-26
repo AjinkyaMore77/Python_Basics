@@ -1,0 +1,1 @@
+{"id": 101, "name": "ajinkya", "salary": 100000, "married": false, "childs": null}
